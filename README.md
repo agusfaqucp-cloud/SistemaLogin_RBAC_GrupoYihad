@@ -2,7 +2,7 @@
 
 # 💻 Sistema de Login y Control de Acceso (RBAC)
 
-### 🌐 Proyecto del Grupo **Yihad**
+### 🌐 Proyecto Grupal
 **Facultad de Ingeniería en Sistemas – 2025**
 
 <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python">
@@ -21,9 +21,10 @@
 ## 👥 **Equipo de desarrollo**
 | Integrante | Rol |
 |-------------|-----|
-| **Yihad** | Líder del Proyecto |
+| **Angie** | Líder del Proyecto |
 | **Agustina** | Documentadora Técnica |
 | **Thaiana** | Frontend Developer (UI/UX) |
 | **Balthazar** | Backend Developer |
-| **David / Lautaro / Ange** | Colaboradores y testers |
+
+---
 
